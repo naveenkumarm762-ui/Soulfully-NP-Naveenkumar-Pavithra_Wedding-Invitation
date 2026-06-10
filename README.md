@@ -4,6 +4,21 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Naveenkumar M & Pavithra C Wedding Invitation</title>
+  <meta name="description" content="With the blessings of our families, we invite you to celebrate the wedding of Naveenkumar M and Pavithra C.">
+
+  <link rel="icon" type="image/png" href="icon.png">
+  <link rel="apple-touch-icon" href="icon.png">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Naveenkumar M & Pavithra C Wedding Invitation">
+  <meta property="og:description" content="Reception: 24 June 2026. Wedding: 25 June 2026. Your presence and blessings will make our special day memorable.">
+  <meta property="og:image" content="icon.png">
+  <meta property="og:image:alt" content="Naveenkumar M and Pavithra C wedding invitation">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Naveenkumar M & Pavithra C Wedding Invitation">
+  <meta name="twitter:description" content="Reception: 24 June 2026. Wedding: 25 June 2026.">
+  <meta name="twitter:image" content="icon.png">
 
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Sacramento&family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
